@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     VideoStar pro
-                  </div><a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/videostar.plist"
+                  </div><a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/vdpro.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
@@ -47,7 +47,7 @@
         </ul>
       </div>
       <div class="block-title">
-        About videostar pro 2
+        About videostar pro
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>Hacked - All Features Unlocked</pre>
@@ -61,7 +61,7 @@
                   Version
                 </div>
                 <div class="item-after">
-                  v8.9
+                  v8.3.2
                 </div>
               </div>
             </div>
@@ -73,7 +73,7 @@
                   Size
                 </div>
                 <div class="item-after">
-                  139MB
+                  97MB
                 </div>
               </div>
             </div>
