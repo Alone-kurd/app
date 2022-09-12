@@ -1,47 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>https://up-ipa.xyz/share/p81I2UpbsLt4uusA/direct</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>full-size-image</string>
-<key>needs-shine</key>
-<true/>
-<key>url</key>
-<string>https://is.gd/rIx7VL</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>display-image</string>
-<key>needs-shine</key>
-<true/>
-<key>url</key>
-<string>https://is.gd/rIx7VL</string>
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>com.8ball.anas</string>
-<key>bundle-version</key>
-<string>1</string>
-<key>kind</key>
-<string>software</string>
-<key>subtitle</key>
-<string>8Ball</string>
-<key>title</key>
-<string> Pubg Mobile تکایە لەسەر ئەکاونتی خۆت تاقی مەکەوە @alontore "لەبوونی هەر کێشەیەک دەتوانی نامە بۆ چەنالی تیلیگرام بنێریت" Telegram : alonsore </string>
-</dict>
-</dict>
-</array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/pubgm-v-2-2.1.0-1662643519/PUBGM%20V2_2.1.0_1662643519.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://alone-ios.netlify.app/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://alone-ios.netlify.app/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.alonestore.pubg</string>
+				<key>bundle-version</key>
+				<string>2.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+          <string>PUBG MOBILE @alonstote</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
