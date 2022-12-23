@@ -47,7 +47,7 @@
         </ul>
       </div>
       <div class="block-title">
-        About videostar pro
+        About videostar pro 2
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>Hacked - All Features Unlocked</pre>
@@ -61,7 +61,7 @@
                   Version
                 </div>
                 <div class="item-after">
-                  v8.3.2
+                  v8.9
                 </div>
               </div>
             </div>
@@ -73,7 +73,7 @@
                   Size
                 </div>
                 <div class="item-after">
-                  97MB
+                  139MB
                 </div>
               </div>
             </div>
