@@ -26,7 +26,7 @@
           <li class="media-item">
             <div class="item-content">
               <div class="item-media"><img src=
-              "./img/videostar.png"
+              "./img/vdhack.png"
               class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">

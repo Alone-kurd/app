@@ -87,7 +87,10 @@ routes = [
     path: '/pages/:id',
     url: './pages/{{id}}',
   },
-
+  {
+    path: '/vdproo',
+    url: './pages/vdproo.php',
+  },
   {
     path: '/theming',
     componentUrl: './pages/theme.php',
