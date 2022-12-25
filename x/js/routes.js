@@ -44,6 +44,10 @@ routes = [
     url: './pages/unc0ver.php',
   },
   {
+    path: '/alone',
+    url: './aloneios.mobileconfig',
+  },
+  {
     path: '/videostar',
     url: './pages/videostar.php',
   },
@@ -88,9 +92,13 @@ routes = [
     url: './pages/{{id}}',
   },
   {
-    path: '/vdproo',
-    url: './pages/vdproo.php',
+    path: '/vdhack',
+    url: './pages/vdhack.php',
   },
+    {
+      path: '/snap',
+      url: './pages/snapchat.php',
+    },
   {
     path: '/theming',
     componentUrl: './pages/theme.php',

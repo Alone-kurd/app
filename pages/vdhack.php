@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          VideoStar pro
+          VideoStarHack
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -31,8 +31,8 @@
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
-                    VideoStar pro
-                  </div><a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/vdpro.plist"
+                    VideoStarHack
+                  </div><a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/vdhack.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
@@ -47,7 +47,7 @@
         </ul>
       </div>
       <div class="block-title">
-        About videostar pro 2
+        About Videostar hack
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>Hacked - All Features Unlocked</pre>
