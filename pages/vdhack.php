@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     VideoStarHack
-                  </div><a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/vdhack.plist"
+                  </div><a href="itms-services://?action=download-manifest&url=https://plist.tweakdoor.com/videostarhack"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
