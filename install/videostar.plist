@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ipa.ipasign.cc:2052/sign/20221223205419723/4eb1a1a2-0654-72d8-4a5f-22d3e5932900/resign_20221223205419723.ipa</string>
+					<string>https://uploads.nekoo.ru/893322816/18f5b497-e69c-45b5-8020-23f330523926.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-  				<string>com.alone.videostar</string>
+  				<string>com.frontierdesign.videostarpro</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>videostar</string>
+				<string>videostarPRO</string>
 			</dict>
 		</dict>
 	</array>
