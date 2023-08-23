@@ -33,7 +33,7 @@
                   <div class="item-title">
                     PubgHack
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/pubg.plist"
+                  "https://install.appcenter.ms/users/lucferxotop1/apps/pubg-xo-crack-vip-free/distribution_groups/lucfer-xo"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
