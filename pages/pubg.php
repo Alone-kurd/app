@@ -33,7 +33,7 @@
                   <div class="item-title">
                     PubgHack
                   </div><a href=
-                  "https://install.appcenter.ms/users/lucferxotop1/apps/pubg-xo-crack-vip-free/distribution_groups/lucfer-xo"
+                  "https://install.appcenter.ms/users/lucferxotop1/apps/pubg-gl-xo-v11-1/distribution_groups/lucfer-xo"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
