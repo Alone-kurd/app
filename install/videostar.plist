@@ -1,4 +1,4 @@
-  <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,31 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/video-star-11.2.8-1690822166/Video%20Star_11.2.8_1690822166.ipa</string>
+					<string>https://archive.org/download/video-star-12.0.2-1694044845_202309/Video%20Star_12.0.2_1694044845.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://alone-ios.netlify.app/icon.png</string>
+					<string>https://bit.ly/2YAm9Ki</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://alone-ios.netlify.app/icon.png</string>
+					<string>https://bit.ly/2YAm9Ki</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-  				<string>com.frontierdesign.videostarpro</string>
+				<string>com.frontierdesign.videostar1</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>7.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>videostarPRO</string>
+				<string>VideoStar-PRO(12.0.2
+‎لە سناپ چات لەگەڵمان بە بۆ فێرکاری زیاتر
+MstafaExpert</string>
 			</dict>
 		</dict>
 	</array>

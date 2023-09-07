@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          VideoStar pro
+          VideoStar pro AlONE TEST
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
