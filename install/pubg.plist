@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.ig</string>
+				<string>com.tencent.igg</string>
 				<key>bundle-version</key>
 				<string>2.8.1</string>
 				<key>kind</key>
