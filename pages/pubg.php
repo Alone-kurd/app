@@ -32,8 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     PubgHack
-                  </div><a href=
-                  "https://install.appcenter.ms/users/lucferxotop1/apps/pubg-gl-xo-v11-1/distribution_groups/lucfer-xo"
+                  </div><a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/pubg.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
@@ -51,7 +50,8 @@
         About PubgHack
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>ESP | رادار
+        <pre>Key | Flame
+          ESP | رادار
 AIMBOT | ايمبوت
 Fast Bullet | طلقة سريع</pre>
       </div>
