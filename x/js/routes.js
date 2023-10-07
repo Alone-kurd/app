@@ -24,6 +24,10 @@ routes = [
     url: './pages/esign.php',
   },
   {
+     path: '/scarlet',
+       url: './pages/scarlet.php',
+  },
+  {
     path: '/ppsspp',
     url: './pages/ppsspp.php',
   },
