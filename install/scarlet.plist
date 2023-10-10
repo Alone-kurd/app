@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/org.a8034f0e-8572-4291-bea0-1edfc836b3c6/org.a8034f0e-8572-4291-bea0-1edfc836b3c6.ipa</string>
+					<string>https://archive.org/download/org.ae0410ab-e2bf-4516-8afd-7b217bb59060/org.ae0410ab-e2bf-4516-8afd-7b217bb59060.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://alone-ios.netlify.app/img/scarlet.png</string>
+					<string>https://alone-ios.netlify.app/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
