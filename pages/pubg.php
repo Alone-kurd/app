@@ -50,7 +50,7 @@
         About PubgHack
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>Key | Flame
+        <pre>
           ESP | رادار
 AIMBOT | ايمبوت
 Fast Bullet | طلقة سريع</pre>
