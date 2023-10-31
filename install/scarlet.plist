@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.a8034f0e-8572-4291-bea0-1edfc836b3c6</string>
+				<string>org.a8</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>4.8.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
