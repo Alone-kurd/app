@@ -11,6 +11,11 @@ routes = [
     path: '/new',
     url: './pages/new.php',
   },
+    {
+    path: '/pubgsafe',
+    url: './pages/pubgsafe.php',
+  },
+  
   {
     path: '/appleid',
     url: './pages/appleid.php',
