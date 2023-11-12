@@ -53,6 +53,11 @@ routes = [
     url: './pages/unc0ver.php',
   },
   {
+    path: '/pubgv2',
+    url: './pages/pubgv2.php',
+  },
+
+  {
     path: '/alone',
     url: './aloneios.mobileconfig',
   },
