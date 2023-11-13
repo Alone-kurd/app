@@ -56,6 +56,10 @@ routes = [
     path: '/pubgv2',
     url: './pages/pubgv2.php',
   },
+  {
+    path: '/pubgv3',
+    url: './pages/pubgv3.php',
+  },
 
   {
     path: '/alone',
