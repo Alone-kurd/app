@@ -20,7 +20,7 @@
             <key>PayloadIdentifier</key>
             <string>app.netlify.ios-alone</string>
             <key>PayloadOrganization</key>
-            <string>ناوی به‌رنامه‌</string>
+            <string>AloneStore</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
@@ -36,9 +36,9 @@
     <key>PayloadDescription</key>
     <string> Thanks for install Alone Store‌</string>
     <key>PayloadDisplayName</key>
-    <string>sardam story</string>
+    <string>Alone store</string>
     <key>PayloadIdentifier</key>
-    <string>com.sardamstory پاكێج</string>
+    <string>app.netlify.ios-alone</string>
     <key>PayloadOrganization</key>
     <string>Alone Store</string>
     <key>PayloadRemovalDisallowed</key>
