@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/esign-4.5.2-1700331295/ESign_4.5.2_1700331295.ipa</string>
+					<string>https://archive.org/download/esign-4.8.2-1704152452/ESign_4.8.2_1704152452.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.esign.iMstafa</string>
+				<string>p3.xyz.yyyue.esign</string>
 				<key>bundle-version</key>
-				<string>4.5.2</string>
+				<string>4.8.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Esign 4.5.2 test</string>
+				<string>Esign 4.5.2 Saif</string>
 			</dict>
 		</dict>
 	</array>
