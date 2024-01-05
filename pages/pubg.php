@@ -50,10 +50,28 @@
         About PubgHack
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>
-          ESP | رادار
-AIMBOT | ايمبوت
-Fast Bullet | طلقة سريع</pre>
+        <pre>PUBG Mobile Hack Safe V2.9
+        
+        شوێن کەشف کردنی دووژمن ESP
+        بینینی چەك و درۆپ و سەیارە ھەموو پێداویستیەکانی ناو ماپ
+        ئەیمبۆتی ٥٠ مەتر
+        نەمانی ڕیکۆیل
+        NO RECUILE
+        FLY PLAYER
+        HIGH JUMP
+        BUNY JUMP
+        2 MAGIC
+        FAST MOVE
+        FAST SHOT
+        
+        لە ئێستادا پارێزراوە ✅
+        
+         بەرپرس نین لە بان بوون لەسەر مەسئولیاتی خۆت بەکاری بێنە 
+        IPA DOWNLOAD
+        LINK
+        https://archive.org/download/pubg-alonstore/PUBG%20ALONSTORE.ipa
+        ✔️
+ ❤️</pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
