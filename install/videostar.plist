@@ -31,12 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.frontierdesign.videostar</string>
 				<key>bundle-version</key>
-				<string>7.0.0</string>
+				<string>12.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>VideoStarPro t.me/alonstore
-				By alone</string>
+				<string>VideoStarPro t.me/alonstore </string>
 			</dict>
 		</dict>
 	</array>
