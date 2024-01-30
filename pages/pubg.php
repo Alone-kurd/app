@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          PubgHack
+          Pubg Mobile hack full
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -50,7 +50,7 @@
         About PubgHack
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>PUBG Mobile Hack Safe V2.9
+        <pre>PUBG Mobile Hack Safe V3.0.0
         
         شوێن کەشف کردنی دووژمن ESP
         بینینی چەك و درۆپ و سەیارە ھەموو پێداویستیەکانی ناو ماپ
@@ -67,11 +67,7 @@
         لە ئێستادا پارێزراوە ✅
         
          بەرپرس نین لە بان بوون لەسەر مەسئولیاتی خۆت بەکاری بێنە 
-        IPA DOWNLOAD
-        LINK
-        https://archive.org/download/pubg-alonstore/PUBG%20ALONSTORE.ipa
-        ✔️
- ❤️</pre>
+        </pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
