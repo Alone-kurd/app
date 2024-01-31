@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/pubg-aloststore-3.0.0-1706627144/PUBG%20ALOSTSTORE_3.0.0_1706627144.ipa</string>
+					<string>https://archive.org/download/pubg-mobile-3.0.0-1706699469/PUBG%20MOBILE_3.0.0_1706699469.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -36,7 +36,7 @@
 				<string>software</string>
 				<key>title</key>
           <string>PUBG Edit by telegram
-          @alonStore FullLl</string>
+          @alonStore Full</string>
 			</dict>
 		</dict>
 	</array>
