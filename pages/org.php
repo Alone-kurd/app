@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ORG 2020 HACK</title>
+  <title>ORG 2024 HACK</title>
 </head>
 <body>
   <div class="page">
@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          ORG 2020 HACK
+          ORG 2024 HACK
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -47,7 +47,7 @@
         </ul>
       </div>
       <div class="block-title">
-        About ORG 2020 HACK
+        About ORG 2024 HACK
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>Hacked</pre>

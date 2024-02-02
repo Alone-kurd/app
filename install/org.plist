@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://up-ipa.com/uploads/up-ipa.comORG2020HACK_ebcd4.ipa</string>
+					<string>https://archive.org/download/org-24-2024.1.12-1706876720/ORG%2024_2024.1.12_1706876720.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.alone.org</string>
+				<string>com.sofeh.ios.musicstudio</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2024.1.12</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ORG 2020 HACK</string>
+				<string>ORG 2024 HACK</string>
 			</dict>
 		</dict>
 	</array>
