@@ -113,6 +113,10 @@ routes = [
     path: '/vdhack',
     url: './pages/vdhack.php',
   },
+  {
+    path: '/djay',
+    url: './pages/djay.php',
+  },
     {
       path: '/snap',
       url: './pages/snapchat.php',
