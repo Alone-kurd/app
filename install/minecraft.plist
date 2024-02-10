@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cdn.i3rby.com/out/minecraftSigned.ipa</string>
+					<string>https://archive.org/download/minecraft-alone-1.20.60-1707595312/Minecraft%20Alone_1.20.60_1707595312.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.alone.minecraft</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.20.60</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
