@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://archive.org/download/djay-pro-lane-5.0.3-1707589213/djay%20Pro%20-%20lane_5.0.3_1707589213.ipa</string>
+            <string>https://fastupload.io/en/JeG1xhHLyTkI/lUI0gv9Tq9bIpX2/RMKGJgnNVm1oP/BloodKnight%20-%20KamoHacks%5B2.74%5D.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -29,13 +29,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.algoriddim.djayViP</string>
+          <string>com.algoriddim.djayViP1</string>
           <key>bundle-version</key>
           <string>5.0.3</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>Djay t.me/alonstore </string>
+          <string>Djay test </string>
         </dict>
       </dict>
     </array>
