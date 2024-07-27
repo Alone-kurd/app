@@ -1,19 +1,19 @@
 {
-  "name": "BAREZ STORE Repo",
-  "identifier": "https://barez-ios.store",
-  "sourceURL": "https://barez-ios.store",
-  "iconURL": "https://barez-ios.store",
-  "website": "https://barez-ios.store",
+  "name": "ALONE STORE Repo",
+  "identifier": "https://alone-ios.netlify.app",
+  "sourceURL": "https://alone-ios.netlify.app",
+  "iconURL": "https://alone-ios.netlify.app",
+  "website": "https://alone-ios.netlify.app",
   "subtitle": "Biggest Updated Modified IPA Library for Sideloading - AppTesters.org",
   "META": {
-    "repoName": "https://barez-ios.store"
+    "repoName": "https://alone-ios.netlify.app"
   },
   "apps": [
     {
-      "name": "PUBG BAREZ GL V2",
+      "name": "PUBG ALONE GL V2",
       "type": 1,
-      "bundleID": "Barez.pubgglv3.com",
-      "bundleIdentifier": "Barez.pubgglv3.com",
+      "bundleID": "ALONE.pubgglv3.com",
+      "bundleIdentifier": "ALONE.pubgglv3.com",
       "version": "3.3.0",
       "versionDate": "2024-07-03",
       "fullDate": "20240501194837",
@@ -21,9 +21,9 @@
       "down": ".ipa",
       "downloadURL": ".ipa",
       "developerName": "",
-      "localizedDescription": "PUBG BAREZ IOS Free",
-      "icon": "https://ia801301.us.archive.org/25/items/Barezlogo/IMG_5438.png",
-      "iconURL": "https://ia801301.us.archive.org/25/items/Barezlogo/IMG_5438.png"
+      "localizedDescription": "PUBG ALONE IOS Free",
+      "icon": "https://alone-ios.netlify.app/icon.png",
+      "iconURL": "https://alone-ios.netlify.app/icon.png"
     },
     {
       "name": "X",
