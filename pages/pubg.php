@@ -50,7 +50,7 @@
         About PubgHack
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>PUBG Mobile Hack Safe V3.0.0
+        <pre>PUBG Mobile Hack Safe V3.3.0
         
         شوێن کەشف کردنی دووژمن ESP
         بینینی چەك و درۆپ و سەیارە ھەموو پێداویستیەکانی ناو ماپ
